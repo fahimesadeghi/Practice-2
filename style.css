@@ -41,7 +41,7 @@ border-top-right-radius: 15px;
     font-weight:bolder;
     font-weight: 900px;
     margin-top: 10px;
-    margin-left: 124px;
+    margin-left: 112px;
     color:   hsl(223, 47%, 23%);
     text-shadow: 1px 0 1px  hsl(223, 47%, 23%)  ;
     
@@ -123,7 +123,7 @@ border-top-right-radius: 15px;
     background-color: blueviolet;
 }
 .cancel{
-    margin-top: 100px;
+    margin-top: 90px;
     text-align: center;
     font-family: RedHatDisplay;
     font-size: 17px;
