@@ -89,7 +89,7 @@ body{
 }
 .change:hover{
     text-decoration: none;
-    color: blueviolet;
+    color: hsl(224, 23%, 55%);
 }
 .btn{
     width: 80%;
@@ -107,7 +107,8 @@ body{
     margin-left: 10%;
 }
 .btn:hover{
-    background-color: blueviolet;
+    background-color: hsl(224, 23%, 55%);
+    cursor: pointer;
 }
 .cancel{
     font-family: RedHatDisplay;
@@ -119,7 +120,9 @@ body{
 }
 .cancel:hover{
     color: hsl(223, 47%, 23%);
+    cursor: pointer;
 }
+
 @media screen and(max-width:375) {
     body{
         background-image: url(images/pattern-background-mobile.svg);
